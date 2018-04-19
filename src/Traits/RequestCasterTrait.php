@@ -55,7 +55,7 @@
          *
          * @return void
          */
-        public function validate()
+        public function validateResolved()
         {
             $this->prepareForValidation();
 
