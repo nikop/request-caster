@@ -12,11 +12,11 @@
     ],
     "require": {
         "php": ">=7.2",
-        "illuminate/support": "^6.0"
+        "illuminate/support": "^7.5"
     },
     "require-dev": {
         "php": ">=7.2",
-        "illuminate/support": "^6.0"
+        "illuminate/support": "^7.5"
     },
     "autoload": {
          "psr-4": {
